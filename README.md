@@ -30,6 +30,7 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer.
 - High-frequency Trading Engine  
 - Cryptocurrency Arbitrage  
 - Digital Asset Tokenization  
+- Central Bank Digital Currency (CBDC)  
 
 ### Roles :
 - Chief Technology Officer (CTO) Marketkoin Europe.
