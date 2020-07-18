@@ -1,5 +1,7 @@
 Programming Language Agnostic. Cypherpunk. Mercenary Developer.
 
+![github stats](https://github-readme-stats.vercel.app/api?username=gungunfebrianza&show_icons=true)
+
 ### Confidence Deep Understanding on :  
 <table>
   <tbody>
