@@ -6,25 +6,26 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer.
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>Blockchain</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      <td width="25%" align="center" style="padding-bottom: 30px">
+        <span>Blockchain</span><br><br> 
+        <img height="64px" src="assets/blockchain.svg">
       </td>
       <td width="25%" align="center">
-        <span>Cryptography</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>Cryptography</span><br><br> 
+        <img height="64px" src="assets/cryptography.svg">
       </td>
       <td width="25%" align="center">
-        <span>Cloud Computing</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>Cloud Computing</span><br><br> 
+        <img height="64px" src="assets/cloud_computing.svg">
       </td>
       <td width="25%" align="center">
-        <span>Compiler Construction</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <span>Compiler Construction</span><br><br> 
+        <img height="64px" src="assets/compiler.svg">
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ### Current Research :   
 - High-frequency Trading Engine  
