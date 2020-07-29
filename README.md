@@ -33,9 +33,9 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer.
 - Digital Asset Tokenization  
 - Central Bank Digital Currency (CBDC)  
 
-### Roles :
+### Current Roles :
 - Chief Technology Officer (CTO) Marketkoin Europe.
-- Trainer, Speaker & Writter 
+- Trainer, Speaker & Writer 
 
 
 ### Notes :
