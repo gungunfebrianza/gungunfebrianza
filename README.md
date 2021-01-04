@@ -37,6 +37,12 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer.
 - Chief Technology Officer (CTO) Marketkoin Europe.
 - Trainer, Speaker & Writer 
 
+### Reach Me
+- Facebook  : Gun Gun Febrianza (סרן)
+- Linkedin  : Gun Gun Febrianza
+- Instagram : @rich.guns
+- Twitter   : @daddybitcoin
+- Youtube   : Coming soon!
 
 ### Notes :
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3" alt="Recent Article 0"> 
