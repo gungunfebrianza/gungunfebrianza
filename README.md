@@ -1,4 +1,4 @@
-Programming Language Agnostic. Cypherpunk. Mercenary Developer.
+Programming Language Agnostic. Cypherpunk. Mercenary Developer. Pure Computer Scientist.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gungunfebrianza&show_icons=true)
 
@@ -42,7 +42,7 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer.
 - Linkedin  : Gun Gun Febrianza
 - Instagram : @rich.guns
 - Twitter   : @daddybitcoin
-- Youtube   : Coming soon!
+- Youtube   : Coming soon! (still too lazy to maintain)
 
 ### Notes :
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3" alt="Recent Article 0"> 
