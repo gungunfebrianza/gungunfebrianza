@@ -26,32 +26,35 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer. Pure Computer Sc
   </tbody>
 </table>
 
-
-### Current Research :   
-- High-frequency Trading Engine  
-- Cryptocurrency Arbitrage  
-- Digital Asset Tokenization  
-- Central Bank Digital Currency (CBDC)  
+### Current Researchs :   
+- High-frequency Trading (HFT) Engine  
+- Cryptocurrency : 
+  - Cryptocurrency Exchange
+  - Cryptocurrency Arbitrage, 
+  - Digital Asset Tokenization, 
+  - Central Bank Digital Currency (CBDC)  
 
 ### Current Roles :
 - Chief Technology Officer (CTO) Marketkoin Europe.
-- Trainer, Speaker & Writer 
+- Trainer, Speaker, Mentoring & Writer
+
+### Portfolios :
+- [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - Undergraduate Thesis
+- [Monnica - Monitor & Communication](https://www.youtube.com/watch?v=lCD-nvIiDQg) - Intelligence Surveillance System (oldest version)
+- [Visual Hashing](https://www.youtube.com/watch?v=GWTwwhPz9wU) - Digital Arts Generation
 
 ### Books Author :
-- Belajar Dengan Jenius Python
-- Belajar Dengan Jenius Linux
-- Belajar Dengan Jenius Golang 
-- Belajar Dengan Jenius Amazon Web Services (AWS) & Node.js
-- Belajar Dengan Jenius Deno
+- [Belajar Dengan Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - Published
+- [Belajar Dengan Jenius Amazon Web Services (AWS) & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) - Published
+- [Belajar Dengan Jenius Deno](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Published
+- [Belajar Dengan Jenius Python](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Python) - Draft, soon publish
+- [Belajar Dengan Jenius Linux](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux) - Draft, soon publish
 
-### Reach Me
-- Facebook  : Gun Gun Febrianza (סרן)
-- Linkedin  : Gun Gun Febrianza
+### Reach Me :
+- Facebook & Linkedin  : Gun Gun Febrianza (סרן)
 - Instagram : @rich.guns
 - Twitter   : @daddybitcoin
 - Youtube   : Coming soon! (still too lazy to maintain)
-
-
 
 ### Notes :
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3" alt="Recent Article 0"> 
