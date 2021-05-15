@@ -50,11 +50,12 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer. Pure Computer Sc
 - [Belajar Dengan Jenius Python](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Python) - Draft, soon publish
 - [Belajar Dengan Jenius Linux](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux) - Draft, soon publish
 
+### Speaker :
+- [Deep Tech - Web Security](https://github.com/gungunfebrianza/Deep-Tech-Web-Security) - Deep Tech & Universitas Kuningan Jawa Barat
+- [Blockchain & Cryptocurrency on Industry 4.0](https://github.com/gungunfebrianza/Blockchain-Cryptocurrency-Industry-4.0) - STIMIK-STIE Mikroskil
+
 ### Reach Me :
-- Facebook & Linkedin  : Gun Gun Febrianza (סרן)
-- Instagram : @rich.guns
-- Twitter   : @daddybitcoin
-- Youtube   : Coming soon! (still too lazy to maintain)
+[Facebook](https://www.facebook.com/hazeleekaizera/) | [Linkedin](https://id.linkedin.com/in/gungunfebrianza) | [Instagram @rich.guns](https://www.instagram.com/rich.guns/) | [Twitter @daddybitcoin](https://twitter.com/daddybitcoin) | [Youtube](https://www.youtube.com/c/GunGunFebrianza)
 
 ### Notes :
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3" alt="Recent Article 0"> 
