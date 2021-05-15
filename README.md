@@ -37,12 +37,21 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer. Pure Computer Sc
 - Chief Technology Officer (CTO) Marketkoin Europe.
 - Trainer, Speaker & Writer 
 
+### Books Author :
+- Belajar Dengan Jenius Python
+- Belajar Dengan Jenius Linux
+- Belajar Dengan Jenius Golang 
+- Belajar Dengan Jenius Amazon Web Services (AWS) & Node.js
+- Belajar Dengan Jenius Deno
+
 ### Reach Me
 - Facebook  : Gun Gun Febrianza (סרן)
 - Linkedin  : Gun Gun Febrianza
 - Instagram : @rich.guns
 - Twitter   : @daddybitcoin
 - Youtube   : Coming soon! (still too lazy to maintain)
+
+
 
 ### Notes :
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3" alt="Recent Article 0"> 
