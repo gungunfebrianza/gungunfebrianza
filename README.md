@@ -39,7 +39,7 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer. Pure Computer Sc
 - Trainer, Speaker, Mentoring & Writer
 
 ### Portfolios :
-- [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - Undergraduate Thesis
+- [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - [Docs](https://elib.unikom.ac.id/gdl.php?mod=browse&op=read&id=jbptunikompp-gdl-gungunfebr-36422) - Undergraduate Thesis
 - [Monnica - Monitor & Communication](https://www.youtube.com/watch?v=lCD-nvIiDQg) - Intelligence Surveillance System (oldest version)
 - [Visual Hashing](https://www.youtube.com/watch?v=GWTwwhPz9wU) - Digital Arts Generation
 
