@@ -31,11 +31,11 @@ Programming Language Agnostic. Cypherpunk. Mathematician. Pure Computer Scientis
 - Cryptocurrency : 
   - Cryptocurrency Exchange
   - Cryptocurrency Arbitrage, 
-  - Digital Asset Tokenization, 
-  - Central Bank Digital Currency (CBDC)  
+  - Carbon Tokenization, 
 
 ### Current Roles :
-- Chief Technology Officer (CTO) Marketkoin Europe.
+- Blockchain Architect @ PT Rantai Oxygen Indonesia
+- Former (CTO) Marketkoin Europe.
 - Trainer, Speaker, Mentoring & Writer
 
 ### Portfolios :
