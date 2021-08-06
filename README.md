@@ -35,6 +35,7 @@ Programming Language Agnostic. Cypherpunk. Mathematician. Pure Computer Scientis
 
 ### Current Roles :
 - Blockchain Architect @ PT Rantai Oxygen Indonesia
+- Marketkoin Europe Advisor
 - Trainer, Speaker, Mentoring & Writer
 
 ### Portfolios :
