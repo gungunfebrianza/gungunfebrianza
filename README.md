@@ -44,9 +44,11 @@ Programming Language Agnostic. Cypherpunk. Mathematician. Pure Computer Scientis
 - [Visual Hashing](https://www.youtube.com/watch?v=GWTwwhPz9wU) - Digital Arts Generation
 
 ### Books Author :
+- [Belajar Dengan Jenius Amazon Web Services (AWS) & Node.js vol 1](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) - Published
+- [Belajar Dengan Jenius Amazon Web Services (AWS) & Node.js vol 2](https://github.com/gungunfebrianza/) - Draft, soon publish
 - [Belajar Dengan Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - Published
-- [Belajar Dengan Jenius Amazon Web Services (AWS) & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) - Published
 - [Belajar Dengan Jenius Deno](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Published
+- [Belajar Dengan Jenius Smart Contract](https://github.com/gungunfebrianza/) - Draft, soon publish
 - [Belajar Dengan Jenius Python](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Python) - Draft, soon publish
 - [Belajar Dengan Jenius Linux](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux) - Draft, soon publish
 
