@@ -48,9 +48,10 @@ Programming Language Agnostic. Cypherpunk. Mathematician. Pure Computer Scientis
 - [Belajar Dengan Jenius Amazon Web Services (AWS) & Node.js vol 2](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js-Vol-2) - Draft, soon publish
 - [Belajar Dengan Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - Published
 - [Belajar Dengan Jenius Deno](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Published
-- [Belajar Dengan Jenius Smart Contract](https://github.com/gungunfebrianza/) - Draft, soon publish
+- [Belajar Dengan Jenius Blockchain & Smart Contract](https://github.com/gungunfebrianza/) - Draft, soon publish
 - [Belajar Dengan Jenius Python](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Python) - Draft, soon publish
-- [Belajar Dengan Jenius Linux](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux) - Draft, soon publish
+- [Belajar Dengan Jenius Linux](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Linux) - Early Version
+- [Belajar Dengan Jenius Computer Security](https://github.com/gungunfebrianza/) - Draft, soon publish
 
 ### Speaker :
 - [Deep Tech - Web Security](https://github.com/gungunfebrianza/Deep-Tech-Web-Security) - Deep Tech & Universitas Kuningan Jawa Barat
