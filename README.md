@@ -54,6 +54,7 @@ Programming Language Agnostic. Cypherpunk. Mathematician. Pure Computer Scientis
 - [Belajar Dengan Jenius Computer Security](https://github.com/gungunfebrianza/) - Draft, soon publish
 
 ### Speaker :
+- [Seputar Teknologi Blockchain](https://www.youtube.com/watch?v=OCwMR1cfhjI) - Channel Indonesia Belajar
 - [Deep Tech - Web Security](https://github.com/gungunfebrianza/Deep-Tech-Web-Security) - Deep Tech & Universitas Kuningan Jawa Barat
 - [Blockchain & Cryptocurrency on Industry 4.0](https://github.com/gungunfebrianza/Blockchain-Cryptocurrency-Industry-4.0) - STIMIK-STIE Mikroskil
 
