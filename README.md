@@ -1,7 +1,7 @@
 Programming Language Agnostic. Cypherpunk. Mathematician. Pure Computer Scientist.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gungunfebrianza&show_icons=true)
-<img align="right" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungunfebrianza&layout=compact&theme=white">
+<img align="right" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungunfebrianza&layout=compact&theme=white">
 
 ### Confidence Deep Understanding on :  
 <table>
