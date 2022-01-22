@@ -27,6 +27,7 @@ Programming Language Agnostic. Pure Computer Scientist. Mathematician. Cypherpun
 </table>
 
 ### Current Researchs :   
+- Decentralized Finance (DeFi)
 - High-frequency Trading (HFT) Engine  
 - Cryptocurrency : 
   - Cryptocurrency Exchange
