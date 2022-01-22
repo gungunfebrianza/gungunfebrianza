@@ -1,4 +1,4 @@
-Programming Language Agnostic. Cypherpunk. Mathematician. Pure Computer Scientist.
+Programming Language Agnostic. Pure Computer Scientist. Mathematician. Cypherpunk. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gungunfebrianza&show_icons=true)
 
