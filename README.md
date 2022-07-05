@@ -26,17 +26,16 @@ Programming Language Agnostic. Pure Computer Scientist. Mathematician. Cypherpun
   </tbody>
 </table>
 
-### Current Researchs :   
-- Decentralized Finance (DeFi)
-- High-frequency Trading (HFT) Engine  
-- Cryptocurrency : 
-  - Cryptocurrency Exchange
-  - Cryptocurrency Arbitrage, 
-  - Carbon Tokenization, 
+### Current Activities :   
+- Finishing Bitcoin & Blockchain Books
+- Finishing Ethereum & Smart Contract Books 
+- Cryptocurrency :
+  - Teaching Smart Contract World
+  - Carbon Credit Tokenization (ERC-20, 721, 1155), 
 
 ### Current Roles :
 - Blockchain Architect @ PT Rantai Oxygen Indonesia
-- Marketkoin Europe Advisor
+- Hammersonic Festival Advisor
 - Trainer, Speaker, Mentoring & Writer
 
 ### Portfolios :
