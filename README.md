@@ -31,7 +31,7 @@ Programming Language Agnostic. Pure Computer Scientist. Mathematician. Cypherpun
 - Finishing Ethereum & Smart Contract Books 
 - Cryptocurrency :
   - Teaching Smart Contract World
-  - Carbon Credit Tokenization (ERC-20, 721, 1155), 
+  - Carbon Credit Tokenization (ERC-20, 721, 1155, Custom), 
 
 ### Current Roles :
 - Blockchain Architect @ PT Rantai Oxygen Indonesia
