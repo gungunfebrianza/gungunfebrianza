@@ -71,6 +71,7 @@ Soon I will publish 1 Book about Climate Science.
 - [Belajar Dengan Jenius Computer Security](https://github.com/gungunfebrianza/) - Draft, soon publish
 
 ### Speaker :
+- [How Blockchain Contributes to The Carbon Economics Systems](https://www.youtube.com/watch?v=YDNdiOaDrAk&ab_channel=BlockDevID) - BlockDevID
 - [Meet The Expert - Seputar Teknologi Blockchain](https://www.youtube.com/watch?v=avInXGOSajc) - Channel Indonesia Belajar
 - [Deep Tech - Web Security](https://github.com/gungunfebrianza/Deep-Tech-Web-Security) - Deep Tech & Universitas Kuningan Jawa Barat
 - [Blockchain & Cryptocurrency on Industry 4.0](https://github.com/gungunfebrianza/Blockchain-Cryptocurrency-Industry-4.0) - STIMIK-STIE Mikroskil
