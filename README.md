@@ -1,4 +1,4 @@
-Climate Tech Specialist | Computer Scientist | Blockchain <br>
+Climate Tech Specialist | Computer Scientist | Blockchain <br><br>
 Computer Scientist who is passionate and disciplined in learning about Climate Science.
 <br>
 Author of 6 Computer Science Books | Public Speaker. <br>
@@ -7,6 +7,25 @@ Soon I will publish 1 Book about Climate Science.
 ![github stats](https://github-readme-stats.vercel.app/api?username=gungunfebrianza&show_icons=true)
 
 ### Confidence Deep Understanding on :  
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom: 30px">
+        <span>Climate Science</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/Climate.svg">
+      </td>
+      <td width="25%" align="center" style="padding-bottom: 30px">
+        <span>DMRV Tech</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/Satellite.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>IoT & Sensors</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/compiler.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <table>
   <tbody>
     <tr valign="top">
@@ -22,25 +41,19 @@ Soon I will publish 1 Book about Climate Science.
         <span>Cloud Computing</span><br><br> 
         <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/cloud_computing.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Compiler Construction</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/compiler.svg">
-      </td>
     </tr>
   </tbody>
 </table>
 
 ### Current Activities :   
-- Finishing Bitcoin & Blockchain Books
-- Finishing Ethereum & Smart Contract Books 
-- Cryptocurrency :
-  - Teaching Smart Contract World
-  - Carbon Credit Tokenization (ERC-20, 721, 1155, Custom), 
+- DMRV Research for Nature-based Solution Projects | Carbon Credits
+- DMRV Research for EV Ecosystem & Infrastructure  | Carbon Credits
+- Carbon Accounting Research
 
 ### Current Roles :
-- Blockchain Architect @ PT Rantai Oxygen Indonesia
-- Hammersonic Festival Advisor
-- Trainer, Speaker, Mentoring & Writer
+- Chief Innovation Officer [Rimbuni]([url](https://www.rimbuni.eco/)) is a Climate Tech Focus on DMRV Technology, IoT, AI, Satellite, Carbon Accounting & Carbon Market Analysis
+- Former Chief Technology Officer [ROXI]([url](https://www.roxi.earth/)) is a Blockchain, Carbon Asset & Carbon Trading Company.
+- Founder [NedZero Indonesia, NedZero]([url](https://nedzero.org/)) is an Indonesian think tank advocating post-carbon economy. 
 
 ### Portfolios :
 - [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - [Docs](https://elib.unikom.ac.id/gdl.php?mod=browse&op=read&id=jbptunikompp-gdl-gungunfebr-36422) - Undergraduate Thesis
@@ -61,14 +74,3 @@ Soon I will publish 1 Book about Climate Science.
 - [Meet The Expert - Seputar Teknologi Blockchain](https://www.youtube.com/watch?v=avInXGOSajc) - Channel Indonesia Belajar
 - [Deep Tech - Web Security](https://github.com/gungunfebrianza/Deep-Tech-Web-Security) - Deep Tech & Universitas Kuningan Jawa Barat
 - [Blockchain & Cryptocurrency on Industry 4.0](https://github.com/gungunfebrianza/Blockchain-Cryptocurrency-Industry-4.0) - STIMIK-STIE Mikroskil
-
-### Reach Me :
-[Facebook](https://www.facebook.com/hazeleekaizera/) | [Linkedin](https://id.linkedin.com/in/gungunfebrianza) | [Instagram @rich.guns](https://www.instagram.com/rich.guns/) | [Twitter @daddybitcoin](https://twitter.com/daddybitcoin) | [Youtube](https://www.youtube.com/c/GunGunFebrianza)
-
-### Notes :
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hazekaizer/3" alt="Recent Article 0"> 
-
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gungunfebrianza)
