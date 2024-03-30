@@ -46,14 +46,15 @@ Soon I will publish 1 Book about Climate Science.
 </table>
 
 ### Current Activities :   
-- DMRV Research for Nature-based Solution Projects | Carbon Credits
-- DMRV Research for EV Ecosystem & Infrastructure  | Carbon Credits
-- Carbon Accounting Research
+- DMRV Research for Carbon Credit Project on Nature-based Solution Projects @ [Rimbuni](https://www.rimbuni.eco/)
+- DMRV Research for Carbon Credit Project on EV Ecosystem & Infrastructure @ [NedZero](https://nedzero.org/)
+- Asses Existing Methodology & Develop Methodology for Carbon Credit Project on EV Ecosystem & Infrastructure @ [NedZero](https://nedzero.org/)
+- Carbon Accounting Research | GHG Emission Reporting | Sustainability Reporting @ [Rimbuni](https://www.rimbuni.eco/)
 
 ### Current Roles :
-- Chief Innovation Officer [Rimbuni](https://www.rimbuni.eco/) is a Climate Tech Focus on DMRV Technology, IoT, AI, Drone & Satellite For Carbon Project
-- Former Chief Technology Officer [ROXI](https://www.roxi.earth/) is a Blockchain, Carbon Asset & Carbon Trading Company.
-- Founder [NedZero Indonesia](https://nedzero.org/), NedZero is an Indonesian think tank advocating post-carbon economy. 
+- Chief Innovation Officer [Rimbuni](https://www.rimbuni.eco/) is a Climate Tech | DMRV Technology, IoT, AI, Drone & Satellite For Carbon Project
+- Former Chief Technology Officer [ROXI](https://www.roxi.earth/) is a Blockchain | Carbon Asset & Carbon Trading Company.
+- Founder [NedZero Indonesia](https://nedzero.org/), NedZero is an Indonesian think tank advocating a post-carbon economy. 
 
 ### Portfolios :
 - [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - [Docs](https://elib.unikom.ac.id/gdl.php?mod=browse&op=read&id=jbptunikompp-gdl-gungunfebr-36422) - Undergraduate Thesis
@@ -76,3 +77,7 @@ Soon I will publish 1 Book about Climate Science.
 - [Meet The Expert - Seputar Teknologi Blockchain](https://www.youtube.com/watch?v=avInXGOSajc) - Channel Indonesia Belajar
 - [Deep Tech - Web Security](https://github.com/gungunfebrianza/Deep-Tech-Web-Security) - Deep Tech & Universitas Kuningan Jawa Barat
 - [Blockchain & Cryptocurrency on Industry 4.0](https://github.com/gungunfebrianza/Blockchain-Cryptocurrency-Industry-4.0) - STIMIK-STIE Mikroskil
+
+### Publication :
+- [The Future of Carbon Credits from electric vehicle charging infrastructure](https://medium.com/carboncredit/the-future-of-carbon-credits-from-electric-vehicle-charging-infrastructure-bd7308e6d641) - Medium 
+- [Visualized Blockchain — Fundamental Concept](https://medium.com/@rich.guns/visualized-blockchain-fundamental-concept-131d9084c0b9) - Medium
