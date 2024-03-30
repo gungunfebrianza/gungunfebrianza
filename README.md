@@ -57,8 +57,10 @@ Soon I will publish 1 Book about Climate Science.
 - Founder [NedZero Indonesia](https://nedzero.org/), NedZero is an Indonesian think tank advocating a post-carbon economy. 
 
 ### Portfolios :
+- [Carbon Assets Trading System](https://www.roxi.earth/en/public-testing/sandbox-trade) | [Buy Limit Order](https://www.youtube.com/watch?v=RotPjHnegSA) | [Buy Market Order](https://www.youtube.com/watch?v=H7tFPQnQPkg) | [Cancel Order](https://www.youtube.com/watch?v=Y6a6QnphOj0) | [Sell Limit Order](https://www.youtube.com/watch?v=VqvprKACHAk) | [Sell Market Order](https://www.youtube.com/watch?v=VaqB1kUtw2c)
+- [Cryptocurrency Trading System](https://www.youtube.com/watch?v=dG-YlpwXLpo) - @ Marketkoin
 - [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - [Docs](https://elib.unikom.ac.id/gdl.php?mod=browse&op=read&id=jbptunikompp-gdl-gungunfebr-36422) - Undergraduate Thesis
-- [Monnica - Monitor & Communication](https://www.youtube.com/watch?v=lCD-nvIiDQg) - Intelligence Surveillance System (oldest version)
+- [Monnica - Monitor & Communication](https://www.youtube.com/watch?v=lCD-nvIiDQg) - Intelligence Knowledge Workforce Surveillance System (oldest version)
 - [Visual Hashing](https://www.youtube.com/watch?v=GWTwwhPz9wU) - Digital Arts Generation
 
 ### Books Author :
