@@ -51,7 +51,7 @@ Soon I will publish 1 Book about Climate Science.
 - Carbon Accounting Research
 
 ### Current Roles :
-- Chief Innovation Officer [Rimbuni]([url](https://www.rimbuni.eco/)) is a Climate Tech Focus on DMRV Technology, IoT, AI, Satellite, Carbon Accounting & Carbon Market Analysis
+- Chief Innovation Officer [Rimbuni]([url](https://www.rimbuni.eco/)) is a Climate Tech Focus on DMRV Technology, IoT, AI, Drone & Satellite For Carbon Project
 - Former Chief Technology Officer [ROXI]([url](https://www.roxi.earth/)) is a Blockchain, Carbon Asset & Carbon Trading Company.
 - Founder [NedZero Indonesia, NedZero]([url](https://nedzero.org/)) is an Indonesian think tank advocating post-carbon economy. 
 
