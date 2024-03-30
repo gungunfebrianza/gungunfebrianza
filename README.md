@@ -71,6 +71,7 @@ Soon I will publish 1 Book about Climate Science.
 - [Belajar Dengan Jenius Computer Security](https://github.com/gungunfebrianza/) - Draft, soon publish
 
 ### Speaker :
+- [Carbon Emission Trading - Towards Indonesia Zero Emission](https://www.youtube.com/watch?v=UDXNV0SNXk8&t=389s&ab_channel=Indodax) - Indodax 
 - [How Blockchain Contributes to The Carbon Economics Systems](https://www.youtube.com/watch?v=YDNdiOaDrAk&ab_channel=BlockDevID) - BlockDevID
 - [Meet The Expert - Seputar Teknologi Blockchain](https://www.youtube.com/watch?v=avInXGOSajc) - Channel Indonesia Belajar
 - [Deep Tech - Web Security](https://github.com/gungunfebrianza/Deep-Tech-Web-Security) - Deep Tech & Universitas Kuningan Jawa Barat
