@@ -1,4 +1,8 @@
-First-principle Sage Mode. Programming Language Agnostic. Pure Computer Scientist. Mathematician. Cypherpunk. 
+Climate Tech Specialist | Computer Scientist | Blockchain
+Computer Scientist who is passionate and disciplined in learning about Climate Science.
+
+Author of 6 Computer Science Books | Public Speaker. 
+Soon I will publish 1 Book about Climate Science.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gungunfebrianza&show_icons=true)
 
