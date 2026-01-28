@@ -46,10 +46,10 @@ Soon I will publish 1 Book about Climate Science.
 </table>
 
 ### Current Activities :   
-- DMRV Research for Carbon Credit Project on Nature-based Solution Projects @ [Rimbuni](https://www.rimbuni.eco/)
-- DMRV Research for Carbon Credit Project on EV Ecosystem & Infrastructure @ [NedZero](https://nedzero.org/)
-- Asses Existing Methodology & Develop Methodology for Carbon Credit Project on EV Ecosystem & Infrastructure @ [NedZero](https://nedzero.org/)
-- Carbon Accounting Research | GHG Emission Reporting | Sustainability Reporting @ [Rimbuni](https://www.rimbuni.eco/)
+- Maintain My Youtube | Adaptive Institute | Educate people about computer science stuff, like AI, cybersecurity and system thinking.
+- Educating climate science from computer science perspective at non-profit organization @ [NedZero](https://nedzero.org/)
+- Carbon Accounting Research | GHG Emission Reporting | Sustainability Reporting
+- Gamers, i love games, i believe you too!
 
 ### Current Roles :
 - Chief Innovation Officer [Rimbuni](https://www.rimbuni.eco/) is a Climate Tech | DMRV Technology, IoT, AI, Drone & Satellite For Carbon Project
