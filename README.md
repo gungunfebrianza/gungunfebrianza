@@ -52,7 +52,6 @@ Soon I will publish 1 Book about Climate Science.
 - Gamers, i love games, i believe you too!
 
 ### Current Roles :
-- Chief Innovation Officer [Rimbuni](https://www.rimbuni.eco/) is a Climate Tech | DMRV Technology, IoT, AI, Drone & Satellite For Carbon Project
 - Former Chief Technology Officer [ROXI](https://www.roxi.earth/) is a Blockchain | Carbon Asset & Carbon Trading Company.
 - Founder [NedZero Indonesia](https://nedzero.org/), NedZero is an Indonesian think tank advocating a post-carbon economy. 
 
