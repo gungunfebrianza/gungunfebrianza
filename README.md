@@ -52,8 +52,8 @@ Soon I will publish 1 Book about Climate Science.
 - Gamers, i love games, i believe you too!
 
 ### Current Roles :
-- Former Chief Technology Officer [ROXI](https://www.roxi.earth/) is a Blockchain | Carbon Asset & Carbon Trading Company.
-- Founder [NedZero Indonesia](https://nedzero.org/), NedZero is an Indonesian think tank advocating a post-carbon economy. 
+- Founder [NedZero Indonesia](https://nedzero.org/), NedZero is an Indonesian think tank advocating a post-carbon economy (non-profit organization).
+- Founder Adaptive Institute, online education about cryptography, cryptocurrency, cybersecurity, artificial intelligence and post-quauntum zkp society.
 
 ### Portfolios :
 - [Carbon Assets Trading System](https://www.roxi.earth/en/public-testing/sandbox-trade) | [Buy Limit Order](https://www.youtube.com/watch?v=RotPjHnegSA) | [Buy Market Order](https://www.youtube.com/watch?v=H7tFPQnQPkg) | [Cancel Order](https://www.youtube.com/watch?v=Y6a6QnphOj0) | [Sell Limit Order](https://www.youtube.com/watch?v=VqvprKACHAk) | [Sell Market Order](https://www.youtube.com/watch?v=VaqB1kUtw2c)
