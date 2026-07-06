@@ -1,10 +1,7 @@
-Climate Tech Specialist | Computer Scientist | Blockchain <br><br>
-Computer Scientist who is passionate and disciplined in learning about Climate Science.
+Climate Tech Specialist | Computer Scientist | AI & Blockchain <br><br>
+Computer Scientist who is passionate and disciplined in learning about Climate, AI and Blockchain.
 <br>
-Author of 6 Computer Science Books | Public Speaker. <br>
-Soon I will publish 1 Book about Climate Science.
-
-![github stats](https://github-readme-stats.vercel.app/api?username=gungunfebrianza&show_icons=true)
+Author of 6 Computer Science Books before ChatGPT | Public Speaker. <br>
 
 ### Confidence Deep Understanding on :  
 <table>
