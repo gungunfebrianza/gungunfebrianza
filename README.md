@@ -44,8 +44,6 @@ Author of 6 Computer Science Books before ChatGPT | Public Speaker. <br>
 
 ### Current Activities :   
 - Maintain My Youtube | Adaptive Institute | Educate people about computer science stuff, like AI, cybersecurity and system thinking.
-- Educating climate science from computer science perspective at non-profit organization @ [NedZero](https://nedzero.org/)
-- Carbon Accounting Research | GHG Emission Reporting | Sustainability Reporting
 - Gamers, i love games, i believe you too!
 
 ### Current Roles :
