@@ -1,5 +1,5 @@
-Climate Tech Specialist | Computer Scientist | AI & Blockchain <br><br>
-Computer Scientist who is passionate and disciplined in learning about Climate, AI and Blockchain.
+Computer Scientist | AI & Blockchain <br><br>
+Computer Scientist who is passionate and disciplined in learning about AI and Blockchain.
 <br>
 Author of 6 Computer Science Books before ChatGPT | Public Speaker. <br>
 
