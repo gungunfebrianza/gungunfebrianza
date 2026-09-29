@@ -47,7 +47,6 @@ Author of 6 Computer Science Books before ChatGPT | Public Speaker. <br>
 - Gamers, i love games, i believe you too!
 
 ### Current Roles :
-- Founder [NedZero Indonesia](https://nedzero.org/), NedZero is an Indonesian think tank advocating a post-carbon economy (non-profit organization).
 - Founder Adaptive Institute, online education about cryptography, cryptocurrency, cybersecurity, artificial intelligence and post-quauntum zkp society.
 
 ### Portfolios :
